@@ -22,3 +22,4 @@ kickstarter.css("li.project.grid_4").each do |project|
   # return the projects hash
   projects
 end
+end
